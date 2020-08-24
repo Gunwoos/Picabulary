@@ -1,2 +1,2 @@
-# HandPrinting_Translation
-HandPrinting Translation
+# 한국산업기술대학교 S4-5 졸업작품
+
