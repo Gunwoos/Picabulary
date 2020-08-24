@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CSR</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_start">Start</string>
+    <string name="str_stop">Stop</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
